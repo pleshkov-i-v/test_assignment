@@ -1,0 +1,3598 @@
+{
+  "course_title": "Basic Spanish",
+  "lessons": [
+    {
+      "id": "lesson_1",
+      "order": 1,
+      "title": "Greetings",
+      "exercises": [
+        {
+          "id": "ex_1_1",
+          "type": "read_out_loud",
+          "text_to_read": "Hola, ¿cómo estás?"
+        },
+        {
+          "id": "ex_1_2",
+          "type": "translate",
+          "phrase": "Good morning",
+          "options": [
+            "Buenas noches",
+            "Buenos días",
+            "Buenas tardes",
+            "Hola"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "id": "ex_1_3",
+          "type": "translate",
+          "phrase": "Thank you",
+          "options": [
+            "Por favor",
+            "De nada",
+            "Gracias",
+            "Adiós"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_2",
+      "order": 2,
+      "title": "Basic Food",
+      "exercises": [
+        {
+          "id": "ex_2_1",
+          "type": "translate",
+          "phrase": "The apple",
+          "options": [
+            "La manzana",
+            "El plátano",
+            "El pan",
+            "La leche"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_2_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo como una manzana"
+        },
+        {
+          "id": "ex_2_3",
+          "type": "read_out_loud",
+          "text_to_read": "El agua por favor"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3",
+      "order": 3,
+      "title": "Numbers 1",
+      "exercises": [
+        {
+          "id": "ex_3_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_3_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_3_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_4",
+      "order": 4,
+      "title": "Colors 1",
+      "exercises": [
+        {
+          "id": "ex_4_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_4_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_4_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_5",
+      "order": 5,
+      "title": "Family 1",
+      "exercises": [
+        {
+          "id": "ex_5_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_5_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_5_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_6",
+      "order": 6,
+      "title": "Days 1",
+      "exercises": [
+        {
+          "id": "ex_6_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_6_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_6_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_7",
+      "order": 7,
+      "title": "Time 1",
+      "exercises": [
+        {
+          "id": "ex_7_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_7_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_7_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_8",
+      "order": 8,
+      "title": "Home 1",
+      "exercises": [
+        {
+          "id": "ex_8_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_8_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_8_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_9",
+      "order": 9,
+      "title": "Classroom 1",
+      "exercises": [
+        {
+          "id": "ex_9_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_9_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_9_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_10",
+      "order": 10,
+      "title": "Body 1",
+      "exercises": [
+        {
+          "id": "ex_10_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_10_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_10_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_11",
+      "order": 11,
+      "title": "Weather 1",
+      "exercises": [
+        {
+          "id": "ex_11_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_11_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_11_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_12",
+      "order": 12,
+      "title": "City 1",
+      "exercises": [
+        {
+          "id": "ex_12_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_12_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_12_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_13",
+      "order": 13,
+      "title": "Transport 1",
+      "exercises": [
+        {
+          "id": "ex_13_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_13_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_13_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_14",
+      "order": 14,
+      "title": "Shopping 1",
+      "exercises": [
+        {
+          "id": "ex_14_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_14_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_14_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_15",
+      "order": 15,
+      "title": "Restaurant 1",
+      "exercises": [
+        {
+          "id": "ex_15_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_15_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_15_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_16",
+      "order": 16,
+      "title": "Verbs 1",
+      "exercises": [
+        {
+          "id": "ex_16_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_16_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_16_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_17",
+      "order": 17,
+      "title": "Numbers 2",
+      "exercises": [
+        {
+          "id": "ex_17_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_17_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_17_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_18",
+      "order": 18,
+      "title": "Colors 2",
+      "exercises": [
+        {
+          "id": "ex_18_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_18_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_18_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_19",
+      "order": 19,
+      "title": "Family 2",
+      "exercises": [
+        {
+          "id": "ex_19_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_19_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_19_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_20",
+      "order": 20,
+      "title": "Days 2",
+      "exercises": [
+        {
+          "id": "ex_20_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_20_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_20_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_21",
+      "order": 21,
+      "title": "Time 2",
+      "exercises": [
+        {
+          "id": "ex_21_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_21_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_21_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_22",
+      "order": 22,
+      "title": "Home 2",
+      "exercises": [
+        {
+          "id": "ex_22_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_22_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_22_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_23",
+      "order": 23,
+      "title": "Classroom 2",
+      "exercises": [
+        {
+          "id": "ex_23_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_23_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_23_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_24",
+      "order": 24,
+      "title": "Body 2",
+      "exercises": [
+        {
+          "id": "ex_24_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_24_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_24_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_25",
+      "order": 25,
+      "title": "Weather 2",
+      "exercises": [
+        {
+          "id": "ex_25_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_25_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_25_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_26",
+      "order": 26,
+      "title": "City 2",
+      "exercises": [
+        {
+          "id": "ex_26_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_26_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_26_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_27",
+      "order": 27,
+      "title": "Transport 2",
+      "exercises": [
+        {
+          "id": "ex_27_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_27_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_27_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_28",
+      "order": 28,
+      "title": "Shopping 2",
+      "exercises": [
+        {
+          "id": "ex_28_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_28_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_28_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_29",
+      "order": 29,
+      "title": "Restaurant 2",
+      "exercises": [
+        {
+          "id": "ex_29_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_29_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_29_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_30",
+      "order": 30,
+      "title": "Verbs 2",
+      "exercises": [
+        {
+          "id": "ex_30_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_30_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_30_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_31",
+      "order": 31,
+      "title": "Numbers 3",
+      "exercises": [
+        {
+          "id": "ex_31_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_31_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_31_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_32",
+      "order": 32,
+      "title": "Colors 3",
+      "exercises": [
+        {
+          "id": "ex_32_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_32_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_32_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_33",
+      "order": 33,
+      "title": "Family 3",
+      "exercises": [
+        {
+          "id": "ex_33_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_33_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_33_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_34",
+      "order": 34,
+      "title": "Days 3",
+      "exercises": [
+        {
+          "id": "ex_34_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_34_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_34_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_35",
+      "order": 35,
+      "title": "Time 3",
+      "exercises": [
+        {
+          "id": "ex_35_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_35_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_35_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_36",
+      "order": 36,
+      "title": "Home 3",
+      "exercises": [
+        {
+          "id": "ex_36_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_36_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_36_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_37",
+      "order": 37,
+      "title": "Classroom 3",
+      "exercises": [
+        {
+          "id": "ex_37_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_37_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_37_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_38",
+      "order": 38,
+      "title": "Body 3",
+      "exercises": [
+        {
+          "id": "ex_38_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_38_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_38_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_39",
+      "order": 39,
+      "title": "Weather 3",
+      "exercises": [
+        {
+          "id": "ex_39_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_39_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_39_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_40",
+      "order": 40,
+      "title": "City 3",
+      "exercises": [
+        {
+          "id": "ex_40_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_40_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_40_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_41",
+      "order": 41,
+      "title": "Transport 3",
+      "exercises": [
+        {
+          "id": "ex_41_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_41_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_41_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_42",
+      "order": 42,
+      "title": "Shopping 3",
+      "exercises": [
+        {
+          "id": "ex_42_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_42_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_42_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_43",
+      "order": 43,
+      "title": "Restaurant 3",
+      "exercises": [
+        {
+          "id": "ex_43_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_43_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_43_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_44",
+      "order": 44,
+      "title": "Verbs 3",
+      "exercises": [
+        {
+          "id": "ex_44_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_44_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_44_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_45",
+      "order": 45,
+      "title": "Numbers 4",
+      "exercises": [
+        {
+          "id": "ex_45_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_45_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_45_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_46",
+      "order": 46,
+      "title": "Colors 4",
+      "exercises": [
+        {
+          "id": "ex_46_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_46_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_46_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_47",
+      "order": 47,
+      "title": "Family 4",
+      "exercises": [
+        {
+          "id": "ex_47_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_47_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_47_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_48",
+      "order": 48,
+      "title": "Days 4",
+      "exercises": [
+        {
+          "id": "ex_48_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_48_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_48_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_49",
+      "order": 49,
+      "title": "Time 4",
+      "exercises": [
+        {
+          "id": "ex_49_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_49_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_49_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_50",
+      "order": 50,
+      "title": "Home 4",
+      "exercises": [
+        {
+          "id": "ex_50_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_50_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_50_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_51",
+      "order": 51,
+      "title": "Classroom 4",
+      "exercises": [
+        {
+          "id": "ex_51_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_51_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_51_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_52",
+      "order": 52,
+      "title": "Body 4",
+      "exercises": [
+        {
+          "id": "ex_52_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_52_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_52_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_53",
+      "order": 53,
+      "title": "Weather 4",
+      "exercises": [
+        {
+          "id": "ex_53_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_53_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_53_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_54",
+      "order": 54,
+      "title": "City 4",
+      "exercises": [
+        {
+          "id": "ex_54_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_54_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_54_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_55",
+      "order": 55,
+      "title": "Transport 4",
+      "exercises": [
+        {
+          "id": "ex_55_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_55_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_55_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_56",
+      "order": 56,
+      "title": "Shopping 4",
+      "exercises": [
+        {
+          "id": "ex_56_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_56_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_56_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_57",
+      "order": 57,
+      "title": "Restaurant 4",
+      "exercises": [
+        {
+          "id": "ex_57_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_57_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_57_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_58",
+      "order": 58,
+      "title": "Verbs 4",
+      "exercises": [
+        {
+          "id": "ex_58_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_58_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_58_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_59",
+      "order": 59,
+      "title": "Numbers 5",
+      "exercises": [
+        {
+          "id": "ex_59_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_59_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_59_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_60",
+      "order": 60,
+      "title": "Colors 5",
+      "exercises": [
+        {
+          "id": "ex_60_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_60_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_60_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_61",
+      "order": 61,
+      "title": "Family 5",
+      "exercises": [
+        {
+          "id": "ex_61_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_61_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_61_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_62",
+      "order": 62,
+      "title": "Days 5",
+      "exercises": [
+        {
+          "id": "ex_62_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_62_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_62_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_63",
+      "order": 63,
+      "title": "Time 5",
+      "exercises": [
+        {
+          "id": "ex_63_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_63_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_63_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_64",
+      "order": 64,
+      "title": "Home 5",
+      "exercises": [
+        {
+          "id": "ex_64_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_64_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_64_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_65",
+      "order": 65,
+      "title": "Classroom 5",
+      "exercises": [
+        {
+          "id": "ex_65_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_65_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_65_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_66",
+      "order": 66,
+      "title": "Body 5",
+      "exercises": [
+        {
+          "id": "ex_66_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_66_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_66_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_67",
+      "order": 67,
+      "title": "Weather 5",
+      "exercises": [
+        {
+          "id": "ex_67_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_67_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_67_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_68",
+      "order": 68,
+      "title": "City 5",
+      "exercises": [
+        {
+          "id": "ex_68_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_68_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_68_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_69",
+      "order": 69,
+      "title": "Transport 5",
+      "exercises": [
+        {
+          "id": "ex_69_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_69_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_69_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_70",
+      "order": 70,
+      "title": "Shopping 5",
+      "exercises": [
+        {
+          "id": "ex_70_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_70_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_70_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_71",
+      "order": 71,
+      "title": "Restaurant 5",
+      "exercises": [
+        {
+          "id": "ex_71_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_71_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_71_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_72",
+      "order": 72,
+      "title": "Verbs 5",
+      "exercises": [
+        {
+          "id": "ex_72_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_72_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_72_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_73",
+      "order": 73,
+      "title": "Numbers 6",
+      "exercises": [
+        {
+          "id": "ex_73_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_73_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_73_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_74",
+      "order": 74,
+      "title": "Colors 6",
+      "exercises": [
+        {
+          "id": "ex_74_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_74_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_74_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_75",
+      "order": 75,
+      "title": "Family 6",
+      "exercises": [
+        {
+          "id": "ex_75_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_75_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_75_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_76",
+      "order": 76,
+      "title": "Days 6",
+      "exercises": [
+        {
+          "id": "ex_76_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_76_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_76_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_77",
+      "order": 77,
+      "title": "Time 6",
+      "exercises": [
+        {
+          "id": "ex_77_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_77_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_77_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_78",
+      "order": 78,
+      "title": "Home 6",
+      "exercises": [
+        {
+          "id": "ex_78_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_78_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_78_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_79",
+      "order": 79,
+      "title": "Classroom 6",
+      "exercises": [
+        {
+          "id": "ex_79_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_79_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_79_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_80",
+      "order": 80,
+      "title": "Body 6",
+      "exercises": [
+        {
+          "id": "ex_80_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_80_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_80_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_81",
+      "order": 81,
+      "title": "Weather 6",
+      "exercises": [
+        {
+          "id": "ex_81_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_81_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_81_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_82",
+      "order": 82,
+      "title": "City 6",
+      "exercises": [
+        {
+          "id": "ex_82_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_82_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_82_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_83",
+      "order": 83,
+      "title": "Transport 6",
+      "exercises": [
+        {
+          "id": "ex_83_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_83_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_83_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_84",
+      "order": 84,
+      "title": "Shopping 6",
+      "exercises": [
+        {
+          "id": "ex_84_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_84_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_84_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_85",
+      "order": 85,
+      "title": "Restaurant 6",
+      "exercises": [
+        {
+          "id": "ex_85_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_85_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_85_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_86",
+      "order": 86,
+      "title": "Verbs 6",
+      "exercises": [
+        {
+          "id": "ex_86_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_86_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_86_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_87",
+      "order": 87,
+      "title": "Numbers 7",
+      "exercises": [
+        {
+          "id": "ex_87_1",
+          "type": "translate",
+          "phrase": "One",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_87_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo veo uno"
+        },
+        {
+          "id": "ex_87_3",
+          "type": "translate",
+          "phrase": "Two",
+          "options": [
+            "Tres",
+            "Dos",
+            "Cinco",
+            "Seis"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_88",
+      "order": 88,
+      "title": "Colors 7",
+      "exercises": [
+        {
+          "id": "ex_88_1",
+          "type": "translate",
+          "phrase": "Red",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Verde",
+            "Negro"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_88_2",
+          "type": "read_out_loud",
+          "text_to_read": "El color rojo"
+        },
+        {
+          "id": "ex_88_3",
+          "type": "translate",
+          "phrase": "Blue",
+          "options": [
+            "Amarillo",
+            "Rojo",
+            "Azul",
+            "Rosa"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_89",
+      "order": 89,
+      "title": "Family 7",
+      "exercises": [
+        {
+          "id": "ex_89_1",
+          "type": "translate",
+          "phrase": "Mother",
+          "options": [
+            "Madre",
+            "Padre",
+            "Hermano",
+            "Abuela"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_89_2",
+          "type": "read_out_loud",
+          "text_to_read": "Mi madre está aquí"
+        },
+        {
+          "id": "ex_89_3",
+          "type": "translate",
+          "phrase": "Brother",
+          "options": [
+            "Hermana",
+            "Tío",
+            "Hermano",
+            "Primo"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_90",
+      "order": 90,
+      "title": "Days 7",
+      "exercises": [
+        {
+          "id": "ex_90_1",
+          "type": "translate",
+          "phrase": "Monday",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Viernes",
+            "Domingo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_90_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy es lunes"
+        },
+        {
+          "id": "ex_90_3",
+          "type": "translate",
+          "phrase": "Sunday",
+          "options": [
+            "Jueves",
+            "Domingo",
+            "Miércoles",
+            "Sábado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_91",
+      "order": 91,
+      "title": "Time 7",
+      "exercises": [
+        {
+          "id": "ex_91_1",
+          "type": "translate",
+          "phrase": "Morning",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Hora"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_91_2",
+          "type": "read_out_loud",
+          "text_to_read": "Buenos días"
+        },
+        {
+          "id": "ex_91_3",
+          "type": "translate",
+          "phrase": "Night",
+          "options": [
+            "Mañana",
+            "Noche",
+            "Tarde",
+            "Día"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_92",
+      "order": 92,
+      "title": "Home 7",
+      "exercises": [
+        {
+          "id": "ex_92_1",
+          "type": "translate",
+          "phrase": "The house",
+          "options": [
+            "La casa",
+            "La puerta",
+            "La cama",
+            "La mesa"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_92_2",
+          "type": "read_out_loud",
+          "text_to_read": "La casa es grande"
+        },
+        {
+          "id": "ex_92_3",
+          "type": "translate",
+          "phrase": "The door",
+          "options": [
+            "La silla",
+            "La puerta",
+            "La ventana",
+            "El piso"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_93",
+      "order": 93,
+      "title": "Classroom 7",
+      "exercises": [
+        {
+          "id": "ex_93_1",
+          "type": "translate",
+          "phrase": "The book",
+          "options": [
+            "El libro",
+            "El lápiz",
+            "La silla",
+            "La mochila"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_93_2",
+          "type": "read_out_loud",
+          "text_to_read": "Tengo un libro"
+        },
+        {
+          "id": "ex_93_3",
+          "type": "translate",
+          "phrase": "The pencil",
+          "options": [
+            "La regla",
+            "El papel",
+            "El lápiz",
+            "El libro"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_94",
+      "order": 94,
+      "title": "Body 7",
+      "exercises": [
+        {
+          "id": "ex_94_1",
+          "type": "translate",
+          "phrase": "The hand",
+          "options": [
+            "La mano",
+            "La cabeza",
+            "El ojo",
+            "La boca"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_94_2",
+          "type": "read_out_loud",
+          "text_to_read": "Levanta la mano"
+        },
+        {
+          "id": "ex_94_3",
+          "type": "translate",
+          "phrase": "The head",
+          "options": [
+            "El pie",
+            "La nariz",
+            "La cabeza",
+            "La oreja"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_95",
+      "order": 95,
+      "title": "Weather 7",
+      "exercises": [
+        {
+          "id": "ex_95_1",
+          "type": "translate",
+          "phrase": "It is sunny",
+          "options": [
+            "Hace sol",
+            "Hace frío",
+            "Llueve",
+            "Hace viento"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_95_2",
+          "type": "read_out_loud",
+          "text_to_read": "Hoy hace sol"
+        },
+        {
+          "id": "ex_95_3",
+          "type": "translate",
+          "phrase": "It rains",
+          "options": [
+            "Nieva",
+            "Llueve",
+            "Hace calor",
+            "Está nublado"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_96",
+      "order": 96,
+      "title": "City 7",
+      "exercises": [
+        {
+          "id": "ex_96_1",
+          "type": "translate",
+          "phrase": "The street",
+          "options": [
+            "La calle",
+            "La plaza",
+            "El parque",
+            "La tienda"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_96_2",
+          "type": "read_out_loud",
+          "text_to_read": "La calle es larga"
+        },
+        {
+          "id": "ex_96_3",
+          "type": "translate",
+          "phrase": "The park",
+          "options": [
+            "La escuela",
+            "El mercado",
+            "El parque",
+            "La calle"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    {
+      "id": "lesson_97",
+      "order": 97,
+      "title": "Transport 7",
+      "exercises": [
+        {
+          "id": "ex_97_1",
+          "type": "translate",
+          "phrase": "The bus",
+          "options": [
+            "El autobús",
+            "El tren",
+            "El coche",
+            "La bicicleta"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_97_2",
+          "type": "read_out_loud",
+          "text_to_read": "Voy en autobús"
+        },
+        {
+          "id": "ex_97_3",
+          "type": "translate",
+          "phrase": "The train",
+          "options": [
+            "La moto",
+            "El tren",
+            "El taxi",
+            "El barco"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_98",
+      "order": 98,
+      "title": "Shopping 7",
+      "exercises": [
+        {
+          "id": "ex_98_1",
+          "type": "translate",
+          "phrase": "How much is it?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué hora es?",
+            "¿Cómo te llamas?"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_98_2",
+          "type": "read_out_loud",
+          "text_to_read": "Quiero comprar pan"
+        },
+        {
+          "id": "ex_98_3",
+          "type": "translate",
+          "phrase": "I want water",
+          "options": [
+            "Quiero agua",
+            "Quiero leche",
+            "Quiero pan",
+            "Quiero arroz"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    {
+      "id": "lesson_99",
+      "order": 99,
+      "title": "Restaurant 7",
+      "exercises": [
+        {
+          "id": "ex_99_1",
+          "type": "translate",
+          "phrase": "I am hungry",
+          "options": [
+            "Tengo hambre",
+            "Tengo sed",
+            "Tengo sueño",
+            "Tengo frío"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_99_2",
+          "type": "read_out_loud",
+          "text_to_read": "Una mesa para dos"
+        },
+        {
+          "id": "ex_99_3",
+          "type": "translate",
+          "phrase": "I am thirsty",
+          "options": [
+            "Tengo sueño",
+            "Tengo sed",
+            "Tengo hambre",
+            "Tengo prisa"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    },
+    {
+      "id": "lesson_100",
+      "order": 100,
+      "title": "Verbs 7",
+      "exercises": [
+        {
+          "id": "ex_100_1",
+          "type": "translate",
+          "phrase": "I speak",
+          "options": [
+            "Yo hablo",
+            "Yo como",
+            "Yo vivo",
+            "Yo leo"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "id": "ex_100_2",
+          "type": "read_out_loud",
+          "text_to_read": "Yo hablo español"
+        },
+        {
+          "id": "ex_100_3",
+          "type": "translate",
+          "phrase": "I live",
+          "options": [
+            "Yo estudio",
+            "Yo vivo",
+            "Yo trabajo",
+            "Yo corro"
+          ],
+          "correct_option_index": 1
+        }
+      ]
+    }
+  ]
+}

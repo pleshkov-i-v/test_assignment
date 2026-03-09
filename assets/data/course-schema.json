@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Language Learning Course Schema",
+  "description": "Schema for Duolingo-style language learning lessons and exercises.",
+  "type": "object",
+  "properties": {
+    "course_title": {
+      "type": "string",
+      "description": "The name of the course or language being taught."
+    },
+    "lessons": {
+      "type": "array",
+      "description": "The sequential list of lessons that make up the saga map.",
+      "items": {
+        "$ref": "#/definitions/lesson"
+      }
+    }
+  },
+  "required": [
+    "course_title",
+    "lessons"
+  ],
+  "definitions": {
+    "lesson": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the lesson."
+        },
+        "order": {
+          "type": "integer",
+          "description": "The sequential order of the lesson on the saga map."
+        },
+        "title": {
+          "type": "string",
+          "description": "Display title for the lesson."
+        },
+        "exercises": {
+          "type": "array",
+          "description": "List of exercises contained within the lesson.",
+          "items": {
+            "$ref": "#/definitions/exercise"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "order",
+        "title",
+        "exercises"
+      ]
+    },
+    "exercise": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the exercise."
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "read_out_loud",
+            "translate"
+          ],
+          "description": "The type of exercise to render."
+        }
+      },
+      "required": [
+        "id",
+        "type"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "read_out_loud"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "text_to_read": {
+                "type": "string",
+                "description": "The text the user is prompted to read into the microphone."
+              }
+            },
+            "required": [
+              "text_to_read"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "translate"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "phrase": {
+                "type": "string",
+                "description": "The phrase the user needs to translate."
+              },
+              "options": {
+                "type": "array",
+                "description": "Multiple choice options for the translation.",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 2
+              },
+              "correct_option_index": {
+                "type": "integer",
+                "minimum": 0,
+                "description": "The array index of the correct answer in the options list."
+              }
+            },
+            "required": [
+              "phrase",
+              "options",
+              "correct_option_index"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+
