@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:test_case/core/di/service_locator.dart';
 import 'package:test_case/domain/model/home/course_lesson_item.dart';
+import 'package:test_case/domain/service/authentication_service.dart';
 import 'package:test_case/domain/service/course_service.dart';
 import 'package:test_case/features/home/presentation/bloc/home_bloc.dart';
 import 'package:test_case/features/home/presentation/bloc/home_event.dart';
@@ -24,7 +25,10 @@ class _HomePageState extends State<HomePage> {
     if (!mounted) {
       return;
     }
-
+    await getIt<AuthenticationService>().clearCurrentUserId();
+    if (!mounted) {
+      return;
+    }
     context.go(LoginPage.routeName);
   }
 
