@@ -5,11 +5,14 @@ import 'package:test_case/core/bundle/bundle_repository.dart';
 import 'package:test_case/core/bundle/i_bundle_repository.dart';
 import 'package:test_case/data/course/repository/course_repository.dart';
 import 'package:test_case/data/course/repository/lesson_progress_repository.dart';
+import 'package:test_case/data/user/repository/auth_repository.dart';
 import 'package:test_case/data/user/repository/auth_storage.dart';
 import 'package:test_case/data/user/repository/i_auth_storage.dart';
+import 'package:test_case/domain/repository/i_auth_repository.dart';
 import 'package:test_case/domain/repository/i_course_repository.dart';
 import 'package:test_case/domain/repository/i_lesson_progress_repository.dart';
 import 'package:test_case/domain/repository/i_user_session_repository.dart';
+import 'package:test_case/domain/service/authentication_service.dart';
 import 'package:test_case/domain/service/course_service.dart';
 import 'package:test_case/domain/service/lesson_service.dart';
 
@@ -48,5 +51,14 @@ Future<void> setupDependencies() async {
   );
   getIt.registerLazySingleton<LessonService>(
     () => LessonService(courseRepository: getIt<ICourseRepository>()),
+  );
+  getIt.registerLazySingleton<IAuthRepository>(
+    () => AuthRepository(authStorage: getIt<IAuthStorage>()),
+  );
+  getIt.registerLazySingleton<AuthenticationService>(
+    () => AuthenticationService(
+      authRepository: getIt<IAuthRepository>(),
+      userSessionRepository: getIt<IUserSessionRepository>(),
+    ),
   );
 }
