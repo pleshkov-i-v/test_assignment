@@ -2,15 +2,21 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 import 'package:speech_to_text/speech_to_text.dart';
+import 'package:test_case/domain/model/language_entity.dart';
+import 'package:test_case/domain/service/i_recognized_text_check_service.dart';
 import 'package:test_case/features/lesson/presentation/widgets/bloc/speech_to_text_card_event.dart';
 import 'package:test_case/features/lesson/presentation/widgets/bloc/speech_to_text_card_state.dart';
 
 class SpeechToTextCardBloc
     extends Bloc<SpeechToTextCardEvent, SpeechToTextCardState> {
   SpeechToTextCardBloc({
+    required LanguageEntity language,
+    required IRecognizedTextCheckService recognizedTextCheckService,
     required String expectedText,
     SpeechToText? speechToText,
   }) : _expectedText = expectedText,
+       _language = language,
+       _recognizedTextCheckService = recognizedTextCheckService,
        _speechToText = speechToText ?? SpeechToText(),
        super(const SpeechToTextCardState.initial()) {
     on<SpeechRecognitionInitialized>(_onSpeechRecognitionInitialized);
@@ -24,6 +30,8 @@ class SpeechToTextCardBloc
   }
 
   final String _expectedText;
+  final LanguageEntity _language;
+  final IRecognizedTextCheckService _recognizedTextCheckService;
   final SpeechToText _speechToText;
 
   Future<void> _onSpeechRecognitionInitialized(
@@ -106,7 +114,8 @@ class SpeechToTextCardBloc
 
     await _speechToText.stop();
     final String recognizedText = state.recognizedText ?? '';
-    final bool recognizedCorrectly = _isExpectedPhrase(recognizedText);
+    final bool recognizedCorrectly = _recognizedTextCheckService
+        .isExpectedPhrase(_language, _expectedText, recognizedText);
 
     emit(
       state.copyWith(
@@ -146,25 +155,6 @@ class SpeechToTextCardBloc
             : 'Temporary recognition issue: ${event.errorMessage}. Try again.',
       ),
     );
-  }
-
-  bool _isExpectedPhrase(String recognizedText) {
-    final String normalizedExpected = _normalizeLettersOnly(_expectedText);
-    final String normalizedRecognized = _normalizeLettersOnly(recognizedText);
-    return normalizedRecognized.isNotEmpty &&
-        normalizedExpected.toLowerCase() == normalizedRecognized.toLowerCase();
-  }
-
-  String _normalizeLettersOnly(String value) {
-    // Keep only letters and lowercase them
-    final buffer = StringBuffer();
-    for (int i = 0; i < value.length; i++) {
-      final String ch = value[i];
-      if (RegExp(r'[a-zA-Záéíóúüñ]').hasMatch(ch)) {
-        buffer.write(ch.toLowerCase());
-      }
-    }
-    return buffer.toString();
   }
 
   @override

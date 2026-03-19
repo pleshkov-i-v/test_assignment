@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:test_case/data/course/service/recognized_text_check_service.dart';
+import 'package:test_case/domain/model/language_entity.dart';
 import 'package:test_case/features/lesson/presentation/widgets/bloc/speech_to_text_card_bloc.dart';
 import 'package:test_case/features/lesson/presentation/widgets/bloc/speech_to_text_card_event.dart';
 import 'package:test_case/features/lesson/presentation/widgets/bloc/speech_to_text_card_state.dart';
@@ -17,7 +19,11 @@ class SpeechToTextExerciseCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider<SpeechToTextCardBloc>(
-      create: (_) => SpeechToTextCardBloc(expectedText: textToRead),
+      create: (_) => SpeechToTextCardBloc(
+        expectedText: textToRead,
+        language: LanguageEntity.spanish,
+        recognizedTextCheckService: RecognizedTextCheckService(),
+      ),
       child: BlocBuilder<SpeechToTextCardBloc, SpeechToTextCardState>(
         builder: (BuildContext context, SpeechToTextCardState state) {
           final bool isSuccess = state.isRecognitionCorrect == true;
